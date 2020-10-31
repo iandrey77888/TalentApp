@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentClub.Android", "TalentClub\TalentClub.Android\TalentClub.Android.csproj", "{CC5BD21B-DE93-4083-A9EE-BA8A42B8125C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentClub", "TalentClub\TalentClub\TalentClub.csproj", "{6EF97C0D-E033-4AF1-816D-F64B5B7E8A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5BD21B-DE93-4083-A9EE-BA8A42B8125C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5BD21B-DE93-4083-A9EE-BA8A42B8125C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5BD21B-DE93-4083-A9EE-BA8A42B8125C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CC5BD21B-DE93-4083-A9EE-BA8A42B8125C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5BD21B-DE93-4083-A9EE-BA8A42B8125C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5BD21B-DE93-4083-A9EE-BA8A42B8125C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6EF97C0D-E033-4AF1-816D-F64B5B7E8A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF97C0D-E033-4AF1-816D-F64B5B7E8A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF97C0D-E033-4AF1-816D-F64B5B7E8A21}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6EF97C0D-E033-4AF1-816D-F64B5B7E8A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF97C0D-E033-4AF1-816D-F64B5B7E8A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF97C0D-E033-4AF1-816D-F64B5B7E8A21}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B99BAFB-74A6-4855-A55F-F395AC950AA8}
+	EndGlobalSection
+EndGlobal
