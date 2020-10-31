@@ -16,4 +16,3 @@ C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub\obj\Debug\nets
 C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub\obj\Debug\netstandard2.0\TalentClub.dll
 C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub\obj\Debug\netstandard2.0\ref\TalentClub.dll
 C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub\obj\Debug\netstandard2.0\TalentClub.pdb
-C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub\obj\Debug\netstandard2.0\Pages\NewsList.xaml.g.cs
