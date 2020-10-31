@@ -69,5 +69,15 @@ namespace TalentClub.Properties {
                 return ((byte[])(obj));
             }
         }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        public static byte[] ListIcon {
+            get {
+                object obj = ResourceManager.GetObject("ListIcon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
     }
 }
