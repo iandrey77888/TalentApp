@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atomw\\Desktop\\TalentApp\\TalentClub\\TalentClub\\TalentClub\\TalentClub.csproj": {}
+    "C:\\Users\\Andrey\\IdeaProjects\\TalentApp\\TalentClub\\TalentClub\\TalentClub\\TalentClub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atomw\\Desktop\\TalentApp\\TalentClub\\TalentClub\\TalentClub\\TalentClub.csproj": {
+    "C:\\Users\\Andrey\\IdeaProjects\\TalentApp\\TalentClub\\TalentClub\\TalentClub\\TalentClub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atomw\\Desktop\\TalentApp\\TalentClub\\TalentClub\\TalentClub\\TalentClub.csproj",
+        "projectUniqueName": "C:\\Users\\Andrey\\IdeaProjects\\TalentApp\\TalentClub\\TalentClub\\TalentClub\\TalentClub.csproj",
         "projectName": "TalentClub",
-        "projectPath": "C:\\Users\\atomw\\Desktop\\TalentApp\\TalentClub\\TalentClub\\TalentClub\\TalentClub.csproj",
-        "packagesPath": "C:\\Users\\atomw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atomw\\Desktop\\TalentApp\\TalentClub\\TalentClub\\TalentClub\\obj\\",
+        "projectPath": "C:\\Users\\Andrey\\IdeaProjects\\TalentApp\\TalentClub\\TalentClub\\TalentClub\\TalentClub.csproj",
+        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andrey\\IdeaProjects\\TalentApp\\TalentClub\\TalentClub\\TalentClub\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\atomw\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -67,7 +63,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
