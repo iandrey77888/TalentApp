@@ -464,3 +464,9 @@ C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub.Android\obj\De
 C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub.Android\obj\Debug\90\res\drawable\listicon.png
+C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub.Android\obj\Debug\90\res\drawable\mentoricon.png
+C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub.Android\obj\Debug\90\res\drawable\proficon.png
+C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub.Android\obj\Debug\90\res\drawable\wayicon.png
+C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub.Android\obj\Debug\90\res\drawable\accounticon.png
+C:\Users\atomw\Desktop\TalentApp\TalentClub\TalentClub\TalentClub.Android\obj\Debug\90\res\drawable\messageicon.png

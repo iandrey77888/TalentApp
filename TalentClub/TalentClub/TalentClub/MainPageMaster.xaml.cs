@@ -33,13 +33,13 @@ namespace TalentClub
             {
                 MenuItems = new ObservableCollection<MainPageMasterMenuItem>(new[]
                 {
-                    new MainPageMasterMenuItem { Id = 0, Title = "Лента", TargetType=typeof(MainPage) },
-                    new MainPageMasterMenuItem { Id = 1, Title = "Личный кабинет", TargetType=typeof(ContentPage) },
-                    new MainPageMasterMenuItem { Id = 2, Title = "Наставники", TargetType=typeof(ContentPage) },
-                    new MainPageMasterMenuItem { Id = 3, Title = "Сообщения", TargetType=typeof(ContentPage) },
-                    new MainPageMasterMenuItem { Id = 4, Title = "Образовательный маршрут", TargetType=typeof(ContentPage) },
-                    new MainPageMasterMenuItem { Id = 5, Title = "Ученики", TargetType=typeof(ContentPage) },
-                    new MainPageMasterMenuItem { Id = 6, Title = "Профориентация", TargetType=typeof(ContentPage) },
+                    new MainPageMasterMenuItem { Id = 0, Title = "Лента", TargetType=typeof(MainPage), Path="ListIcon.png" },
+                    new MainPageMasterMenuItem { Id = 1, Title = "Личный кабинет", TargetType=typeof(ContentPage), Path="AccountIcon.png" },
+                    new MainPageMasterMenuItem { Id = 2, Title = "Наставники", TargetType=typeof(ContentPage), Path="MentorIcon.png" },
+                    new MainPageMasterMenuItem { Id = 3, Title = "Сообщения", TargetType=typeof(ContentPage), Path="MessageIcon.png" },
+                    new MainPageMasterMenuItem { Id = 4, Title = "Образовательный маршрут", TargetType=typeof(ContentPage), Path="WayIcon.png" },
+                    new MainPageMasterMenuItem { Id = 5, Title = "Ученики", TargetType=typeof(ContentPage), Path="MentorIcon.png" },
+                    new MainPageMasterMenuItem { Id = 6, Title = "Профориентация", TargetType=typeof(ContentPage), Path="ProfIcon.png" },
                 });
             }
 

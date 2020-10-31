@@ -63,6 +63,16 @@ namespace TalentClub.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Byte[].
         /// </summary>
+        public static byte[] AccountIcon {
+            get {
+                object obj = ResourceManager.GetObject("AccountIcon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
         public static byte[] hdpi {
             get {
                 object obj = ResourceManager.GetObject("hdpi", resourceCulture);
@@ -76,6 +86,46 @@ namespace TalentClub.Properties {
         public static byte[] ListIcon {
             get {
                 object obj = ResourceManager.GetObject("ListIcon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        public static byte[] MentorIcon {
+            get {
+                object obj = ResourceManager.GetObject("MentorIcon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        public static byte[] MessageIcon {
+            get {
+                object obj = ResourceManager.GetObject("MessageIcon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        public static byte[] ProfIcon {
+            get {
+                object obj = ResourceManager.GetObject("ProfIcon", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
+        public static byte[] WayIcon {
+            get {
+                object obj = ResourceManager.GetObject("WayIcon", resourceCulture);
                 return ((byte[])(obj));
             }
         }

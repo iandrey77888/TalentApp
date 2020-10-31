@@ -39,12 +39,24 @@
       <ListView.ItemTemplate>
         <DataTemplate>
           <ViewCell>
-            <StackLayout Padding="15,10" HorizontalOptions="FillAndExpand">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="40"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Image Source="{Binding Path}"/>
+                            <Label VerticalOptions="FillAndExpand"  Grid.Column="1"
+                                VerticalTextAlignment="Center" 
+                                Text="{Binding Title}" 
+                                FontSize="24"/>
+                        </Grid>
+            <!--<StackLayout Padding="15,10" HorizontalOptions="FillAndExpand">
               <Label VerticalOptions="FillAndExpand" 
                     VerticalTextAlignment="Center" 
                     Text="{Binding Title}" 
                     FontSize="24"/>
-            </StackLayout>
+            </StackLayout>-->
           </ViewCell>
         </DataTemplate>
       </ListView.ItemTemplate>
