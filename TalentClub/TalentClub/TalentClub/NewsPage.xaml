@@ -22,10 +22,8 @@
                         <Grid>
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="auto"/>
-                                <RowDefinition Height="*"/>
                             </Grid.RowDefinitions>
-                            <Label Text="{Binding NewsName}" FontSize="Body" FontAttributes="Bold" Grid.Row="0"/>
-                            <Label Text="{Binding NewsText}" FontSize="Caption" Grid.Row="1"/>
+                            <Label Text="{Binding NewsName}" FontSize="Body" FontAttributes="Bold"/>
                         </Grid>
                     </ViewCell>
                 </DataTemplate>

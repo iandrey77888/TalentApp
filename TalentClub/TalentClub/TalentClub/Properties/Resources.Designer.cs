@@ -123,6 +123,16 @@ namespace TalentClub.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Byte[].
         /// </summary>
+        public static byte[] shdpi {
+            get {
+                object obj = ResourceManager.GetObject("shdpi", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Byte[].
+        /// </summary>
         public static byte[] WayIcon {
             get {
                 object obj = ResourceManager.GetObject("WayIcon", resourceCulture);

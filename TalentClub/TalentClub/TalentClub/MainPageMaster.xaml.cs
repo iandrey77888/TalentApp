@@ -39,6 +39,7 @@ namespace TalentClub
                     new MainPageMasterMenuItem { Id = 3, Title = "Сообщения", TargetType=typeof(ContentPage), Path="MessageIcon.png" },
                     new MainPageMasterMenuItem { Id = 4, Title = "Образовательный маршрут", TargetType=typeof(ContentPage), Path="WayIcon.png" },
                     new MainPageMasterMenuItem { Id = 6, Title = "Профориентация", TargetType=typeof(ContentPage), Path="ProfIcon.png" },
+                    new MainPageMasterMenuItem { Id = 7, Title = "Объявления", TargetType=typeof(ContentPage), Path="shdpi.png" },
                 });
             }
 
