@@ -33,7 +33,7 @@ namespace TalentClub
             {
                 MenuItems = new ObservableCollection<MainPageMasterMenuItem>(new[]
                 {
-                    new MainPageMasterMenuItem { Id = 0, Title = "Лента", TargetType=typeof(MainPage), Path="ListIcon.png" },
+                    new MainPageMasterMenuItem { Id = 0, Title = "Лента", TargetType=typeof(NewsPage), Path="ListIcon.png" },
                     new MainPageMasterMenuItem { Id = 1, Title = "Личный кабинет", TargetType=typeof(ContentPage), Path="AccountIcon.png" },
                     new MainPageMasterMenuItem { Id = 2, Title = "Наставники", TargetType=typeof(ContentPage), Path="MentorIcon.png" },
                     new MainPageMasterMenuItem { Id = 3, Title = "Сообщения", TargetType=typeof(ContentPage), Path="MessageIcon.png" },
