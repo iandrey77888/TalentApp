@@ -7,30 +7,6 @@
             <RowDefinition Height="70"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <Picker x:Name="Filter"/>
-
-        <ListView x:Name="MyListView"
-                  Grid.Row="1"
-            ItemsSource="{Binding Items}"
-            ItemTapped="Handle_ItemTapped"
-            CachingStrategy="RecycleElement">
-            
-            <!--Built in Cells-->
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <ViewCell>
-                        <Grid>
-                            <Grid.RowDefinitions>
-                                <RowDefinition Height="auto"/>
-                                <RowDefinition Height="*"/>
-                            </Grid.RowDefinitions>
-                            <Label Text="{Binding NewsName}" FontSize="Body" FontAttributes="Bold" Grid.Row="0"/>
-                            <Label Text="{Binding NewsText}" FontSize="Caption" Grid.Row="1"/>
-                        </Grid>
-                    </ViewCell>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-            
-        </ListView>
+        
     </Grid>
 </ContentPage>
