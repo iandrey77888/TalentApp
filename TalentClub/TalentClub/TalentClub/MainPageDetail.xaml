@@ -14,10 +14,10 @@
             ItemsSource="{Binding Items}"
             ItemTapped="Handle_ItemTapped"
             CachingStrategy="RecycleElement">
+            
             <!--Built in Cells-->
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <!--<TextCell Text="{Binding NewsName}"/>-->
                     <ViewCell>
                         <Grid>
                             <Grid.RowDefinitions>
@@ -30,6 +30,7 @@
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
+            
         </ListView>
     </Grid>
 </ContentPage>
